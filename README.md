@@ -39,9 +39,6 @@ VoxyPorts é um sistema para liberar portas localhost para publico, ajudando ass
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) (40%)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) (40%)
 
-## Contato
-- [Email](mailto:brownt3ely@outlook.com.br)
-
----
+## Contato - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seu-canal) - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil) - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-servidor) - [Email](mailto:brownt3ely@outlook.com.br)
 
 ❤️ Jesus te ama!
