@@ -14,28 +14,17 @@ https://www.evolvedstudios.com
 Aqui estão alguns dos projetos em que trabalhei:
 
 ### Projeto DockStay
-<div style="display: flex;">
-  <div style="width: 60%; background-color: #76c7c0; height: 24px; border-radius: 5px;"></div>
-  <div style="width: 40%; background-color: #e0e0e0; height: 24px; border-radius: 5px;"></div>
-</div>
 Dockstay é um painel para gerenciar containers docker e autohospedam.
 
 - Progresso: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)
 
 ### Projeto Ssh Manager
-<div style="display: flex;">
-  <div style="width: 50%; background-color: #76c7c0; height: 24px; border-radius: 5px;"></div>
-  <div style="width: 50%; background-color: #e0e0e0; height: 24px; border-radius: 5px;"></div>
-</div>
 Ssh Manager é um projeto de gerenciamento de conexões com maquinas ssh, ajudando na instalação de programas, e resolver conflitos de erros.
 
 - Progresso: 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ (40%)
 
 ### Projeto VoxyPorts
-<div style="display: flex;">
-  <div style="width: 80%; background-color: #76c7c0; height: 24px; border-radius: 5px;"></div>
-  <div style="width: 20%; background-color: #e0e0e0; height: 24px; border-radius: 5px;"></div>
-</div>
+
 VoxyPorts é um sistema para liberar portas localhost para publico, ajudando assim a pessoas sem ip dedicado a poderem autohospedar portas para jogos e serviços.
 
 - Progresso: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ (30%)
