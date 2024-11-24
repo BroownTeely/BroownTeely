@@ -11,7 +11,7 @@ Aqui estão alguns dos projetos em que trabalhei:
   <div style="width: 60%; background-color: #76c7c0; height: 24px; border-radius: 5px;"></div>
   <div style="width: 40%; background-color: #e0e0e0; height: 24px; border-radius: 5px;"></div>
 </div>
-Dockstay é um painel de utilizado para gerenciar containers docker e autohospedar.
+Dockstay é um painel para gerenciar containers docker e autohospedam.
 
 - Progresso: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)
 
