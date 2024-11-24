@@ -44,4 +44,4 @@ VoxyPorts é um sistema para liberar portas localhost para publico, ajudando ass
 
 ---
 
-<div class="heart">❤️</div> Jesus te ama!
+❤️ Jesus te ama!
