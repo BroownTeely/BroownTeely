@@ -37,6 +37,5 @@ VoxyPorts é um sistema para liberar portas localhost para publico, ajudando ass
 
 ## Contato 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brownteely)
-- [Email](mailto:brownt3ely@outlook.com.br)
-
+- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brownt3ely@outlook.com.br)
 ❤️ Jesus te ama!
