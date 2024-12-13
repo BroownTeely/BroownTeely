@@ -14,7 +14,7 @@ https://www.evolvedstudios.com
 Aqui estão alguns dos projetos em que trabalhei:
 
 ### Projeto DockStay
-Dockstay é um painel para gerenciar containers docker e autohospedam.
+Dockstay é um painel para gerenciar containers docker e autohospedagem.
 
 - Progresso: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)
 
